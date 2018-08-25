@@ -1,5 +1,5 @@
 # Scraper_Pokemonwiki_Beautifulsoap
 
-Scraper for Pokemonwiki. I made it for the perosnal project.<br />
-BeautifulSoap is used.<br />
-Done in 2015~2016.
+• Done as a personal project during studying data analysis.<br/>
+• Web scraper using BeautifulSoap.<br/>
+• Done in 2015~2016.
